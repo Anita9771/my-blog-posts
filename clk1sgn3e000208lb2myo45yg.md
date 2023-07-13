@@ -6,7 +6,7 @@ datePublished: Thu Jul 13 2023 23:36:04 GMT+0000 (Coordinated Universal Time)
 cuid: clk1sgn3e000208lb2myo45yg
 slug: introduction-to-html
 canonical: https://www.linkedin.com/pulse/introduction-html-foundation-websites-anita-idemudia
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689290182608/6a2241cb-119d-4a69-ab19-44b138cafec5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689291705173/639a3840-903d-45df-819e-7e0b37699c74.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689290325949/bbf2e530-fa1b-40dc-9582-ba71cade0643.png
 tags: web-development, html5, beginners, frontend-development
 
