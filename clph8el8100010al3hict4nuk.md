@@ -73,7 +73,7 @@ In a decentralized network, no single entity has complete control over the infor
 
 Decentralized Web Nodes are a cornerstone of the Web5 vision, offering a more secure, private, and user-controlled Internet experience. This detailed breakdown offers an insight into the operational framework of DWNs, highlighting their significance in the context of the evolving internet landscape. DWNs not only enhance the technical robustness of web infrastructure but also foster a more democratic and user-empowered digital world.
 
-Helpful contents:
+*Helpful content:*
 
 [Web5 as the new tech](https://developer.tbd.website/blog/what-is-web5)
 
