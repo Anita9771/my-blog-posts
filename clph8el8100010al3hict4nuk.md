@@ -29,7 +29,7 @@ In a DWN framework, users gain more control over their personal information, red
 
 ## How Do Decentralized Web Nodes (DWNs) Work?
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701110825036/6f20c46c-b679-43bb-b70d-c3deabe87735.png align="center")
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701110825036/6f20c46c-b679-43bb-b70d-c3deabe87735.png align="center")](https://developer.tbd.website/docs/web5/learn/decentralized-web-nodes)
 
 Decentralized Web Nodes (DWNs) work in a series of ways which can be categorized as the following:
 
